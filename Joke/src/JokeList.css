@@ -38,3 +38,8 @@
     width: 70%;
     overflow: scroll;
 }
+
+.JokeList-spinner {
+    color: yellow;
+    text-align: center;
+}
